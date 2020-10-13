@@ -1,4 +1,4 @@
-$rootfolder =  $env:USERPROFILE+"\WÃ¤stbygg Gruppen AB"
+$rootfolder =  $env:USERPROFILE+"\Wästbygg Gruppen AB"
 
 $json = @{
 user = $env:UserName
