@@ -1,3 +1,4 @@
+#Retry
 $rootfolder =  $env:USERPROFILE+"\Wästbygg Gruppen AB"
 
 $json = @{
